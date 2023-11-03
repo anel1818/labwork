@@ -1,0 +1,27 @@
+body {
+    background-color: #125480; 
+    font-family: "Poppins", Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: right;
+    height: 100vh;
+    margin: 0;
+}
+h2{
+    align-items: center;
+}
+.blue-button {
+    background-color: #3498db;
+    color: #fff; 
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+form label, form input, form select, form button, form div {
+    font-family: 'Poppins', sans-serif;
+}
+
+form label {
+    font-weight: 500; 
+}
